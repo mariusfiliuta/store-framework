@@ -12,20 +12,18 @@
       ]
    },
    "search-result-layout.desktop": {
-   "children": [
-        "flex-layout.row#searchtitle",
-        "flex-layout.row#result"
+    "children": [
+         "breadcrumb.search",
+         "search-title.v2",
+         "total-products.v2",
+         "order-by.v2",
+         "search-fetch-previous",
+         "search-content",
+         "filter-navigator.v3",
+         "search-fetch-more"
     ],
     "props": {
-        "pagination": true,
-        "breadcrumb.search": true,
-        "search-title.v2": true,
-        "total-products.v2": true,
-        "order-by.v2": true,
-        "search-fetch-previous": true,
-        "search-content": true,
-        "filter-navigator.v3": true,
-        "search-fetch-more": true
+        "pagination": "show-more"
     }
    }
 }
