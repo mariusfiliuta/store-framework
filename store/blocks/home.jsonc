@@ -8,7 +8,9 @@
       "flex-layout.col",
       "shelf",
       "slider-layout#home",
-      "responsive-layout"
+      "responsive-layout",
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile"
     ]
   },
   "info-card": {
