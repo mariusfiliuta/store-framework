@@ -13,6 +13,7 @@
    },
    "search-result-layout.desktop": {
     "props": {
+        "pagination": true,
         "breadcrumb.search": true,
         "search-title.v2": true,
         "total-products.v2": true,
