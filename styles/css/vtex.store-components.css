@@ -13,10 +13,8 @@
     border: transparent;
 }
 
-.infoCardCallActionContainer :global(.vtex-button):hover {
-    color: white;
-    background-color: blue;
-    border: transparent;
+.infoCardCallActionContainer :hover {
+    background-color: white;
 }
 .infoCardContainer--vintage {
     background-color: #EDCFD1
