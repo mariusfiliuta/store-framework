@@ -1,6 +1,7 @@
 {
 "slider-layout#home": {
     "children": [
+
     "info-card#1",
     "info-card#2",
     "info-card#3",
