@@ -32,7 +32,9 @@
         "headline": "Black Friday",
         "callToActionText": "Subscribe",
         "textPosition": "center"
+      }
       },
+
 
     "info-card#3": {
       "props": {
@@ -41,7 +43,9 @@
         "headline": "Black Friday",
         "callToActionText": "Subscribe",
         "textPosition": "center"
+      }
       },
+
 
     "info-card#4": {
       "props": {
@@ -50,7 +54,9 @@
         "headline": "Black Friday",
         "callToActionText": "Subscribe",
         "textPosition": "center"
+      }
       },
+
 
     "info-card#5": {
       "props": {
@@ -59,7 +65,9 @@
         "headline": "Black Friday",
         "callToActionText": "Subscribe",
         "textPosition": "center"
+      }
       },
+
 
     "info-card#6": {
       "props": {
@@ -69,4 +77,6 @@
         "callToActionText": "Subscribe",
         "textPosition": "center"
       }
+      }
+
   }
