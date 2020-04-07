@@ -12,6 +12,10 @@
       ]
    },
    "search-result-layout.desktop": {
+   "children": [
+        "flex-layout.row#searchtitle",
+        "flex-layout.row#result"
+    ],
     "props": {
         "pagination": true,
         "breadcrumb.search": true,
