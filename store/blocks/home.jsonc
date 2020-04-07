@@ -65,7 +65,7 @@
       }
     },
 
-    "rich-text#deletar": {
+    "flex-layout.col#delete": {
       "props": {
         "text": "I'll be deleted soon"
       }
