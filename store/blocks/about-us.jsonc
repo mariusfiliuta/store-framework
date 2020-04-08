@@ -21,7 +21,7 @@
   },
   "rich-text#about-title": {
     "props": {
-      "text": "# About FlatFlat"
+      "text": "# Sobre a FlatFlat"
     }
   },
   "rich-text#about-content": {
